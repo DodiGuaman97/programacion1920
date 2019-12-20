@@ -13,6 +13,8 @@ public class Ejemplos {
     public static void main(String[] args) {
         //1.declaracion de arreglos con valores iniciales 
         String universidades[] = {"Utpl","Unl","Ucuenca"};
+        
+        System.out.println(universidades [1]);
         //2.declaracion de arreglo, indicandon su longuitud
         String estudiantes[]=new String[20];
         estudiantes[0] = " Inicio ";

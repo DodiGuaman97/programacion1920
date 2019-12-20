@@ -18,7 +18,7 @@ public class Autenticación {
       String password = "1997";
       boolean autenticacion = false;
   while(!autenticacion){
-         System.out.println("IAUTENTIQUESE CON SU USUARIO Y CONTRASEÑA");
+         System.out.println("IDENTIFIQUESE CON SU USUARIO Y CONTRASEÑA");
          String us = teclado.next();
          String pass = teclado.next();
          if (usuario.equals(us)&& pass.equals(pass)){

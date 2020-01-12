@@ -63,5 +63,4 @@ public class CajeroautomaticoWhile {
         System.out.println("su saldo es de : $"+ saldo_cuenta);
         
     }    
-    }
-
+}

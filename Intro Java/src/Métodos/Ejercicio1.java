@@ -39,7 +39,7 @@ public class Ejercicio1 {
         return mensaje;
 
     }
-
+     
     /**
      * Es un metodo que no retorna ningun valor. Este método sirve para
      * detreminar si un número es par o no.

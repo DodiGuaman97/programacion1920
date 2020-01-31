@@ -71,6 +71,8 @@ public class Numeros_Perfectos {
         System.out.println(num2);
         System.out.println(num3);
         System.out.println(num4);
-    }
 
+    }
+   
+    
 }

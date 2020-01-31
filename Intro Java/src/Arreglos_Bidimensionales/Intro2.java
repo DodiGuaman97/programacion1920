@@ -19,7 +19,7 @@ public class Intro2 {
         System.out.println("Ingrese el numero de filas de la matriz");
         int filas = teclado.nextInt();
         teclado.nextLine();
-        System.out.println("Ingrese el numero de columnasde la matriz");
+        System.out.println("Ingrese el numero de columnas de la matriz");
         int cols = teclado.nextInt();
         teclado.nextLine();
         //Creación de una matriz vacia
